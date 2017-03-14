@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Opportunity",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "data-Opportunitys.json"
+        ]
+    },
+    {
+        "sobject": "Expense__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "data-Expense__cs.json"
+        ]
+    }
+]

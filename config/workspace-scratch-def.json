@@ -1,9 +1,9 @@
 {
-  "Company": "Your Company",
-  "Country": "US",
-  "LastName": "lastnane",
-  "Email": "yourname@example.com",
-  "Edition": "Developer",
+  "Company": "Salesforce ",
+  "Country": "AU",
+  "LastName": "Sellers",
+  "Email": "tsellers@salesforce.com",
+  "Edition": "Enterprise",
   "OrgPreferences" : {
     "S1DesktopEnabled" : true
   }

@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Expense__c",
+                "referenceId": "Expense__cRef1"
+            },
+            "Name": "E-00003",
+            "Opportunity__c": "@OpportunityRef3"
+        },
+        {
+            "attributes": {
+                "type": "Expense__c",
+                "referenceId": "Expense__cRef2"
+            },
+            "Name": "E-00002",
+            "Type__c": "Gift",
+            "Amount__c": 125,
+            "Expense_Date__c": "2017-03-01",
+            "Opportunity__c": "@OpportunityRef3"
+        },
+        {
+            "attributes": {
+                "type": "Expense__c",
+                "referenceId": "Expense__cRef3"
+            },
+            "Name": "E-00001",
+            "Opportunity__c": "@OpportunityRef3"
+        }
+    ]
+}
