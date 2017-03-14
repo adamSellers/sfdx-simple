@@ -4,49 +4,73 @@
             "attributes": {
                 "type": "Opportunity",
                 "referenceId": "OpportunityRef1"
-            }
+            },
+            "Name": "salesforce.com - 5000 Widgets",
+            "StageName": "Closed Won",
+            "CloseDate": "2014-11-26"
         },
         {
             "attributes": {
                 "type": "Opportunity",
                 "referenceId": "OpportunityRef2"
-            }
+            },
+            "Name": "salesforce.com - 500 Widgets",
+            "StageName": "Closed Won",
+            "CloseDate": "2014-11-26"
         },
         {
             "attributes": {
                 "type": "Opportunity",
                 "referenceId": "OpportunityRef3"
-            }
+            },
+            "Name": "Global Media - 400 Widgets",
+            "StageName": "Id. Decision Makers",
+            "CloseDate": "2015-01-27"
         },
         {
             "attributes": {
                 "type": "Opportunity",
                 "referenceId": "OpportunityRef4"
-            }
+            },
+            "Name": "Acme - 1,200 Widgets",
+            "StageName": "Value Proposition",
+            "CloseDate": "2014-12-29"
         },
         {
             "attributes": {
                 "type": "Opportunity",
                 "referenceId": "OpportunityRef5"
-            }
+            },
+            "Name": "Acme - 600 Widgets",
+            "StageName": "Needs Analysis",
+            "CloseDate": "2015-02-24"
         },
         {
             "attributes": {
                 "type": "Opportunity",
                 "referenceId": "OpportunityRef6"
-            }
+            },
+            "Name": "Acme - 200 Widgets",
+            "StageName": "Prospecting",
+            "CloseDate": "2015-04-29"
         },
         {
             "attributes": {
                 "type": "Opportunity",
                 "referenceId": "OpportunityRef7"
-            }
+            },
+            "Name": "salesforce.com - 1,000 Widgets",
+            "StageName": "Negotiation/Review",
+            "CloseDate": "2014-12-29"
         },
         {
             "attributes": {
                 "type": "Opportunity",
                 "referenceId": "OpportunityRef8"
-            }
+            },
+            "Name": "salesforce.com - 2,000 Widgets",
+            "StageName": "Value Proposition",
+            "CloseDate": "2015-02-26"
         }
     ]
 }
