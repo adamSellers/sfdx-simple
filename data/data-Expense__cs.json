@@ -5,7 +5,6 @@
                 "type": "Expense__c",
                 "referenceId": "Expense__cRef1"
             },
-            "Name": "E-00003",
             "Type__c": "Gift",
             "Amount__c": 125,
             "Expense_Date__c": "2017-03-01",            
@@ -16,7 +15,6 @@
                 "type": "Expense__c",
                 "referenceId": "Expense__cRef2"
             },
-            "Name": "E-00002",
             "Type__c": "Travel",
             "Amount__c": 125,
             "Expense_Date__c": "2017-03-01",
@@ -27,7 +25,6 @@
                 "type": "Expense__c",
                 "referenceId": "Expense__cRef3"
             },
-            "Name": "E-00001",
             "Type__c": "Meal",
             "Amount__c": 250,
             "Expense_Date__c": "2017-03-01",            
